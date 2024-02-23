@@ -17,31 +17,6 @@ __Reference__:
 
 # CHANGELOG
 
-## [0.3.1]
-
-### Fixed
-
-* Typo in the README
-
-## [0.3.0]
-
-### Changed
-
-* Updated README
-
-## [0.2.1]
-
-### Fixed
-
-* Missing CHANGELOG entry
-
-## [0.2.0]
-
-### Removed
-
-* Language specific resources, as these will be handled in language specific
-  templates.
-
 ## [0.1.0]
 
 ### Added
